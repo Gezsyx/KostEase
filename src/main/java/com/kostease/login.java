@@ -17,7 +17,6 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
-        this.setExtendedState(javax.swing.JFrame.MAXIMIZED_BOTH);
     }
 
     /**
